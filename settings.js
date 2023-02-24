@@ -7,7 +7,7 @@ const {
 } = require(`./language`)
 
 //OpenAi || ChatGpt
-global.OpenAIKey = "YOUR_OPENAI_KEY" //login to https://beta.openai.com/ to get apikey
+global.OpenAIKey = "ChatGPT" //login to https://beta.openai.com/ to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -20,16 +20,16 @@ global.APIKeys = {
    'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.my.id to get apikey
 }
 global.sewabotnya = `
-edit sewabot di file settings.js line 19
+Ready SEWA BOT 24 JAM masukin 5k/grup sebulan
 `
 // setting 
 global.firtsChat = true //send firts message to new user
 global.autoread = true // auto read message
 global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
-global.autobio = false //auto ganti bio
+global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = false
+global.userRegister = true
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
