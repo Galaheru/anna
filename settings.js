@@ -29,7 +29,7 @@ global.antidelete = false // anti delete
 global.antiviewonce = true // anti view once
 global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = true
+global.userRegister = false
 global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
