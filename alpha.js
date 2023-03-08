@@ -190,7 +190,7 @@ if (global.db) setInterval(async () => {
       })
    }
 
-   console.log(color(figlet.textSync('ALPHABOT', {
+   console.log(color(figlet.textSync('YONZZI', {
       font: 'Standard',
       horizontalLayout: 'default',
       vertivalLayout: 'default',
@@ -236,7 +236,7 @@ if (global.db) setInterval(async () => {
          }
          return message;
       },
-      browser: ['Bot By ZeeoneOfc', 'safari', '1.0.0'],
+      browser: ['Yonzzi BOTZ', 'safari', '1.0.0'],
       auth: state
    })
 
