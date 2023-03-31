@@ -41,11 +41,11 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Yonzzi-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ Ronaldoོ ×፝֟͜×" //nama kalian
-global.myweb = "https://teknologibonsi.biz.id" //bebas asal jan hapus
+global.botname = "Anna store" //namabot kalian
+global.ownername = "Jimmy Store" //nama kalian
+global.myweb = "https://www.facemedia.app" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@MinersX2" //bebas asal jan hapus
-global.myweb2 = "https://www.ronaldoshop.tech" //bebas
+global.myweb2 = "https://t.me/GrantAndy" //bebas
 global.email = "ronaldotumanggor815@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone list : https://www.php.net/manual/en/timezones.php 
